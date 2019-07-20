@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "html.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -50,15 +50,15 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 17,
+    "uniqCompNum": 22,
     "versionPublish": "4.10.3",
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "index.html": {
+    "html.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Blanca Felete",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
